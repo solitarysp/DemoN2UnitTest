@@ -11,13 +11,13 @@ public class BankServicecImpl implements BankService {
     }
 
     @Override
-    public boolean isVay() {
+    public boolean isVay(Integer id) {
         return false;
     }
 
     @Override
-    public void doVay() {
-
+    public boolean doVay(Integer id) {
+        return false;
     }
 
 }

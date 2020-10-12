@@ -1,4 +1,4 @@
-package vn.com.viettel.demo;
+package vn.com.viettel.demo.service.bank;
 
 import org.junit.Assert;
 import org.junit.Test;
